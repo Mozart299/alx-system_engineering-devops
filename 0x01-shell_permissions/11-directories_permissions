@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u-x,go-wx ./ 
+chmod -R 111 ./ 
