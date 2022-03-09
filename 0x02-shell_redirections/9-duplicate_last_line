@@ -1,0 +1,2 @@
+#!/bin/bash
+sort 9-duplicate_last_line | uniq -d
